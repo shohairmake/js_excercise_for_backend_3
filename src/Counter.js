@@ -4,11 +4,11 @@ class Counter{
     }
 
     increment(){
-        this._count ++;
+        this._count++;
     }
 
     decrement(){
-        this._count --;
+        this._count--;
     }
 }
 
